@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hey Wazap
+
+Subete no gisei wa 
+Ima kono toki no tameni
